@@ -70,6 +70,19 @@ Responsive portfolio designed to turn technical work into clear services, projec
 </tr>
 </table>
 
+### [SabTrace](https://github.com/Saboreq/SabTrace)
+
+Cross-platform C++20 command-line log analyser built as a standalone, script-friendly binary.
+
+- Filters files or standard input by log level, literal text, or ECMAScript regular expression
+- Detects `TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, `FATAL`, and unknown lines
+- Produces terminal statistics and structured JSON reports
+- Uses dependency-free tests, CMake, and reproducible build presets
+- Builds and tests on Linux, Windows, and macOS with GitHub Actions
+- Publishes versioned release archives and SHA-256 checksums
+
+[Latest release](https://github.com/Saboreq/SabTrace/releases/latest) · [Source code](https://github.com/Saboreq/SabTrace)
+
 ---
 
 ## Technology
@@ -90,6 +103,7 @@ Responsive portfolio designed to turn technical work into clear services, projec
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-111111?style=for-the-badge&logo=robloxstudio&logoColor=white)
@@ -99,23 +113,22 @@ Responsive portfolio designed to turn technical work into clear services, projec
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub activity
+## Public engineering activity
 
-<div align="center">
+| Repository | Focus | Delivery proof |
+|---|---|---|
+| [SabTrace](https://github.com/Saboreq/SabTrace) | Modern C++20 CLI and log analysis | Cross-platform CI, tests, tagged releases, checksums |
+| [SabHaven](https://github.com/Saboreq/SabHaven) | Secure file-delivery web application | Production deployment, RLS policies, Edge Functions |
+| [BIO](https://github.com/Saboreq/BIO) | Commercial portfolio website | Vercel previews, responsive UI, project case studies |
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saboreq&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="Saboreq GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboreq&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
-
-</div>
-
-> Language statistics reflect public repository data and do not represent proficiency rankings.
+GitHub's native contribution history and complete public repository list are available on the [Saboreq profile](https://github.com/Saboreq). This section intentionally avoids third-party statistics cards that can fail because of API limits or service outages.
 
 ---
 
