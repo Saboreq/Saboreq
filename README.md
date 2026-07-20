@@ -2,7 +2,7 @@
 
 # Hi, I'm Saboreq
 
-### Software Developer & Owner of Saboreq
+### Independent Software Developer behind Saboreq
 
 I build focused software for businesses, creators, and development teams.
 
@@ -13,9 +13,9 @@ I build focused software for businesses, creators, and development teams.
 
 ---
 
-## About Saboreq
+## About
 
-I run **Saboreq**, a software development company serving clients worldwide. I personally handle project discovery, development, testing, and delivery, keeping communication direct and every deliverable accountable.
+**Saboreq** is my public development brand. I work independently and personally handle project discovery, development, testing, and delivery, keeping communication direct and every deliverable accountable.
 
 ### Services
 
@@ -24,7 +24,7 @@ I run **Saboreq**, a software development company serving clients worldwide. I p
 - **Windows tools** — C#/.NET utilities, integrations, data processing, and workflow automation
 - **Roblox systems** — modular Luau systems, persistent data, interfaces, and server-side logic
 
-Commercial projects are scoped in writing and invoiced through Saboreq.
+Commercial projects are scoped in writing and invoiced through my registered business.
 
 ---
 
@@ -52,7 +52,7 @@ A lightweight cross-platform log analysis tool built in modern C++.
 
 ### [Saboreq Portfolio](https://github.com/Saboreq/BIO)
 
-The client-facing website for Saboreq, presenting services, project case studies, estimated pricing, and a direct quote flow.
+My public portfolio website, presenting services, project case studies, estimated pricing, and a direct quote flow.
 
 [Live website](https://saboreq.xyz) · [Source code](https://github.com/Saboreq/BIO)
 
