@@ -1,64 +1,81 @@
 <div align="center">
 
-# Saboreq
+# Hi, I'm Saboreq
 
-**Independent software developer building focused products and custom systems.**
+### Independent Software Developer behind Saboreq
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saboreq.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://saboreq.xyz)
-[![Email](https://img.shields.io/badge/Email-contact%40saboreq.xyz-111827?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@saboreq.xyz)
-[![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/846992995886301184)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Professional+websites+and+web+applications;Windows+.NET+tools+and+workflow+automation;Roblox+systems+with+server-side+validation;Focused+software+built+to+solve+real+problems)](https://git.io/typing-svg)
+
+I build focused software for businesses, creators, and development teams.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-saboreq.xyz-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://saboreq.xyz)
+[![Email](https://img.shields.io/badge/Email-contact%40saboreq.xyz-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saboreq.xyz)
 
 </div>
 
+---
+
 ## About
 
-I design and build practical software with a clear purpose: professional websites, web applications, Windows desktop tools, and Roblox systems. I handle projects from specification and interface design through implementation, testing, and deployment.
+**Saboreq** is my public development brand. I work independently and personally handle project discovery, development, testing, and delivery, keeping communication direct and every deliverable accountable.
 
-I operate through a registered Polish business and work with clients internationally in English. I am available for well-scoped freelance and contract projects.
+### Services
 
-## Services
+- **Professional websites** — responsive business sites, product pages, portfolios, and landing pages
+- **Web applications** — authentication, dashboards, databases, APIs, and custom workflows
+- **Windows tools** — C#/.NET utilities, integrations, data processing, and workflow automation
+- **Roblox systems** — modular Luau systems, persistent data, interfaces, and server-side logic
 
-| Area | Typical work |
-|---|---|
-| **Professional websites** | Responsive business sites, landing pages, portfolios, SEO metadata, and deployment |
-| **Web applications** | Authentication, dashboards, APIs, databases, file workflows, and internal tools |
-| **Windows .NET tools** | C# utilities, WinForms applications, automation, data processing, and API clients |
-| **Roblox systems** | Modular Luau gameplay systems, persistence, interfaces, and server-side validation |
+Commercial projects are scoped in writing and invoiced through my registered business.
 
-> Pricing is estimated per scope. USD is the primary quote currency; EUR quotes are available on request.
+---
 
 ## Selected work
 
 ### [SabHaven](https://github.com/Saboreq/SabHaven)
 
-Invite-only file platform with public downloads, private member storage, role-aware administration, and authorization enforced through PostgreSQL and Supabase Storage policies.
+An invite-only file portal for controlled public downloads and owner-only private storage.
 
-`React` `TypeScript` `Supabase` `PostgreSQL` `RLS` `Edge Functions` `Vercel`
+- Server-enforced access control for files and complete folder trees
+- Member uploads, virtual folders, expiring downloads, and invitation management
+- Production deployment with documented security boundaries and limitations
 
 [Live application](https://files.saboreq.xyz) · [Source code](https://github.com/Saboreq/SabHaven)
 
+### [SabTrace](https://github.com/Saboreq/SabTrace)
+
+A lightweight cross-platform log analysis tool built in modern C++.
+
+- Filters files and command pipelines by severity, phrase, or regular expression
+- Produces readable statistics and structured JSON reports
+- Available as versioned downloads for Windows, Linux, and macOS
+
+[Latest release](https://github.com/Saboreq/SabTrace/releases/latest) · [Source code](https://github.com/Saboreq/SabTrace)
+
 ### [Saboreq Portfolio](https://github.com/Saboreq/BIO)
 
-Responsive developer portfolio that presents production case studies, services, estimated pricing, and a focused project enquiry flow.
-
-`React` `TypeScript` `TanStack Start` `Tailwind CSS` `Vite` `Vercel`
+My public portfolio website, presenting services, project case studies, estimated pricing, and a direct quote flow.
 
 [Live website](https://saboreq.xyz) · [Source code](https://github.com/Saboreq/BIO)
 
-## Core stack
+---
 
-<p>
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img alt="Roblox Studio" src="https://img.shields.io/badge/Roblox%20Studio-111111?style=flat-square&logo=robloxstudio&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+## Core technologies
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-111111?style=for-the-badge&logo=robloxstudio&logoColor=white)
+
+</div>
+
+---
 
 ## How I work
 
@@ -67,10 +84,15 @@ Responsive developer portfolio that presents production case studies, services, 
 3. Build in reviewable milestones and communicate progress clearly.
 4. Test the finished work and provide deployment or handover documentation.
 
-## Contact
+---
 
-- **Portfolio:** [saboreq.xyz](https://saboreq.xyz)
-- **Email:** [contact@saboreq.xyz](mailto:contact@saboreq.xyz)
-- **Discord:** [Saboreq](https://discord.com/users/846992995886301184)
+## Start a project
 
-Please include the project type, required features, current state, desired deadline, and budget range when getting in touch.
+I am available for clearly scoped websites, web applications, Windows .NET tools, and Roblox systems.
+
+<div align="center">
+
+[![Request a quote](https://img.shields.io/badge/Request_a_quote-saboreq.xyz-A78BFA?style=for-the-badge&logo=googlemessages&logoColor=white)](https://saboreq.xyz/#contact)
+[![Send email](https://img.shields.io/badge/Send_email-contact%40saboreq.xyz-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saboreq.xyz)
+
+</div>
